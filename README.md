@@ -23,6 +23,7 @@ if __name__ == "__main__":
   area = area_total(r1, r2, h)
   print("El área total de los objetos es " + str(area))
 ```
+***
 ### Ejercicio 2
 Conociendo los lados de un rectángulo y el radio que comparten dos círculos determine: el área y el pérímetro total de las figuras.
 ```python
@@ -47,6 +48,7 @@ if __name__ == "__main__":
   area_total = area(a, b, r)
   print(area_total)
 ```
+***
 ### Ejercicio 3
 Diseñe una función que calcule la cantidad de carne de aves en kilos si se tienen N gallinas, M gallos y K pollitos cada uno pesando 6 kilos, 7 kilos y 1 kilo respectivamente.
 ```python
@@ -63,6 +65,7 @@ if __name__ == "__main__":
   peso_total = peso_aves(n, m, k)
   print("La cantadidad total de carne es de " + str(peso_total) + "kg")
 ```
+***
 ### Ejercicio 4
 Haga un programa que utilice una función para calcular el valor de un préstamo C usando interés compuesto del i por n meses.
 ```python
@@ -77,6 +80,7 @@ if __name__ == "__main__":
   monto_final = interes_compuesto(c, n, i)
   print("El capital final es de: " + str(monto_final))
 ```
+***
 ### Ejercicio 5
 Escriba un programa que pida 5 números reales y calcule las siguientes operaciones usando una función para cada una:
 
@@ -119,4 +123,16 @@ if __name__ == "__main__":
   raiz_cub = raiz_cub_menor(a, b, c, d, e)
 
   print("La raíz cúbica del menor número es: " + str(raiz_cub))
+```
+***
+### 6. ¿Qué es _pip_ y cómo funciona?
+pip es un sistema de gestión de paquetes utilizado para *instalar y administrar paquetes* de software escritos en Python. Muchos paquetes pueden ser encontrados en el Python Package Index. 
+Tiene una gran ventaja la cual es la facilidad de su interfaz de línea de comandos, el cual permite instalar paquetes de software de Python fácilmente desde solo una orden.
+* Instalar:
+```
+pip install nombre-paquete
+```
+* Desinstalar:
+```
+pip uninstall nombre-paquete
 ```
