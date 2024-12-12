@@ -136,3 +136,66 @@ pip install nombre-paquete
 ```
 pip uninstall nombre-paquete
 ```
+### Módulos más populares
+#### Request
+* Descripción: Biblioteca para hacer solicitudes HTTP de manera sencilla.
+* Instalación:
+```
+pip install requests
+```
+#### NumPy
+* Descripción: Biblioteca para computación numérica y manejo de arreglos multidimensionales.
+* Instalación:
+```
+  pip install numpy
+```
+#### Pandas
+* Descripción: Biblioteca para el análisis de datos que proporciona estructuras de datos flexibles y eficientes.
+* Instalación:
+```
+  pip install pandas
+```
+#### Matplotlib
+* Descripción: Biblioteca para la generación de gráficos y visualizaciones.
+* Instalación:
+```
+  pip install matplotlib  
+```
+#### Scikit-learn
+* Descripción: Biblioteca para el aprendizaje automático que incluye herramientas para modelado, preprocesamiento y evaluación.
+* Instalación:
+```
+  pip install scikit-learn
+```
+#### Flask
+* Descripción: Microframework para el desarrollo de aplicaciones web.
+* Instalación:
+```
+  pip install Flask
+```
+#### Django
+* Descripción: Framework de alto nivel para el desarrollo rápido de aplicaciones web con un diseño limpio y pragmático.
+* Instalación:
+```
+  pip install Django
+```
+#### Beautiful Soup
+* Descripción: Biblioteca para extraer datos de archivos HTML y XML.
+* Instalación:
+```
+  pip install beautifulsoup4
+```
+#### TensorFlow
+* Descripción: Biblioteca para el aprendizaje profundo y la inteligencia artificial.
+* Instalación:
+```
+  pip install tensorflow
+```
+#### Pygame
+* Descripción: Conjunto de bibliotecas para la creación de videojuegos y multimedia.
+* Instalación:
+```
+  pip install pygame
+```
+
+ 
